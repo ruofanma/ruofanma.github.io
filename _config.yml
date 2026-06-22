@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "R temo"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "R temp"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,9 +26,9 @@ author:
   avatar           : "headshot_2025.jpg" # "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Clinical Psychology Doctoral Candidate (expected 2026)"
+  bio              : "Post-Doctoral Fellow"
   location         : # "Earth"
-  employer         : "UNC-Chapel Hill"
+  employer         : "University of Toronto & Yale University"
   uri              : # URL
   email            : # "maruofanX [at] adY.uncZ.edu (delete X, Y, and Z)" 
 
