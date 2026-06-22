@@ -9,6 +9,8 @@ redirect_from:
 
 [Download Curriculum Vitae](/files/CV_June2026_Ma.pdf.pdf)
 
+<iframe src="{{ '/files/CV_June2026_Ma.pdf.pdf' | relative_url }}" width="100%" height="800px"></iframe
+
 <!--
 {% include base_path %}
 
