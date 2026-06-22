@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Post-Doctoral Fellow"
   location         : # "Earth"
-  employer         : "University of Toronto & Yale University"
+  employer         : "University of Toronto"
+  employer         : "Yale University"
   uri              : # URL
   email            : # "maruofanX [at] adY.uncZ.edu (delete X, Y, and Z)" 
 
