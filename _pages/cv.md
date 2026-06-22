@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](/files/cv.pdf)
+[Curriculum Vitae](/files/CV_June2026_Ma.pdf.pdf)
 
 
 <!--
