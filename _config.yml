@@ -29,7 +29,7 @@ author:
   bio              : "Post-Doctoral Fellow"
   location         : "New Haven, CT"
   employer         : "University of Toronto<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yale University"
-  uri              : "https://ruofanma.github.io/"
+  uri              : # "https://ruofanma.github.io/"
   email            : # "maruofanX [at] adY.uncZ.edu (delete X, Y, and Z)" 
 
   # Academic websites
